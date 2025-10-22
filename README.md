@@ -26,38 +26,19 @@
 <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white" />  
 
 ### Фреймворки и технологии .NET  
-<img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />  
-<img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" />  
-<img alt="ASP.NET Identity" src="https://img.shields.io/badge/ASP.NET_Core_Identity-68217A?style=flat-square" />  
-<img alt="ASP.NET MVC" src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square" />  
-<img alt="WPF" src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=.net&logoColor=white" />  
-<img alt="MVVM" src="https://img.shields.io/badge/MVVM-2E8B57?style=flat-square" />  
-<img alt="Entity Framework" src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square" />  
-<img alt="LINQ" src="https://img.shields.io/badge/LINQ-68217A?style=flat-square" />  
+<img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" />  <img alt="ASP.NET Identity" src="https://img.shields.io/badge/ASP.NET_Core_Identity-68217A?style=flat-square" />  <img alt="ASP.NET MVC" src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square" />  <img alt="WPF" src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=.net&logoColor=white" />  <img alt="MVVM" src="https://img.shields.io/badge/MVVM-2E8B57?style=flat-square" />  <img alt="Entity Framework" src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square" />  <img alt="LINQ" src="https://img.shields.io/badge/LINQ-68217A?style=flat-square" />  
 
 ### Инструменты разработки  
-<img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />  
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />  
-<img alt="UML" src="https://img.shields.io/badge/UML-D1A000?style=flat-square" />  
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />  
+<img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />  <img alt="UML" src="https://img.shields.io/badge/UML-D1A000?style=flat-square" />  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />  
 
 ### Базы данных и хранилища  
-<img alt="MS SQL Server" src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />  
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />  
-<img alt="Redis" src="https://img.shields.io/badge/Redis-D40000?style=flat-square&logo=redis&logoColor=white" />  
-<img alt="S3" src="https://img.shields.io/badge/S3-Storage-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />  
+<img alt="MS SQL Server" src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />  <img alt="Redis" src="https://img.shields.io/badge/Redis-D40000?style=flat-square&logo=redis&logoColor=white" />  <img alt="S3" src="https://img.shields.io/badge/S3-Storage-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />  
 
 ### Архитектура и интеграция  
-<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />  
-<img alt="REST API" src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" />  
-<img alt="CQRS" src="https://img.shields.io/badge/CQRS-FF4500?style=flat-square" />  
-<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />  
-<img alt="gRPC" src="https://img.shields.io/badge/gRPC-00BFFF?style=flat-square" />  
+<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />  <img alt="REST API" src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" />  <img alt="CQRS" src="https://img.shields.io/badge/CQRS-FF4500?style=flat-square" />  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />  <img alt="gRPC" src="https://img.shields.io/badge/gRPC-00BFFF?style=flat-square" />  
 
-### Инфраструктура и DevOps  
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />  
-<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />  
-<img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-Pipeline-3C3C3C?style=flat-square" />  
+**Инфраструктура и DevOps:**  
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />  <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-Pipeline-3C3C3C?style=flat-square" />  
 
 ---
 
