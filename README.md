@@ -38,16 +38,6 @@
 
 ---
 
-## 💼 Проект: TimeCafe  
-
-Платформа для управления тайм-кафе: клиенты, тарифы, посещения, баланс и онлайн-оплата.  
-Реализованы онлайн-платежи через YooKassa, очереди для фоновых задач, чат на SignalR, ролевая авторизация, сбор логов и деплой через Docker.  
-Две версии: веб (React + TypeScript) и десктоп (WinUI 3, MVVM).  
-
-**Стек:** .NET 9 | ASP.NET Core | Web API | SignalR | EF Core | MediatR (CQRS) | Identity | Swagger | MassTransit | RabbitMQ | YooKassa | React | TypeScript | Vite | WinUI 3 | PostgreSQL | Redis | Docker | GitHub Actions | GitLab CI | xUnit | Moq | FluentAssertions  
-
----
-
 ## 🎓 Образование  
 
 **ОКВГУ имени П. М. Машерова**  
